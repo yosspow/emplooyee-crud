@@ -1,11 +1,11 @@
 **HowToRun** :
-``back-end`` :
+`back-end` :
 
 dotNet run 
 
-``front-end`` :
-npm install
- npm run dev 
+`front-end` :
+- npm install
+-  npm run dev 
 
 
 **Info** :
